@@ -34,7 +34,28 @@ Thông qua việc triển khai đề tài này, người thực hiện sẽ có 
 ## 🔧 2. Ngôn ngữ lập trình sử dụng: [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
 
 ## 🚀 3. Công nghệ sử dụng
+1. Ngôn ngữ lập trình: Java ☕
+Java là ngôn ngữ lập trình đa nền tảng, mạnh mẽ và phổ biến. Nó được sử dụng để phát triển cả ứng dụng Client và Server.
 
+Ứng dụng Client (Frontend): Có thể sử dụng Java Swing hoặc JavaFX để xây dựng giao diện người dùng (GUI) cho phép người dùng nhập thông tin đăng nhập.
+
+Ứng dụng Server (Backend): Xử lý các yêu cầu từ Client, thực hiện logic nghiệp vụ như xác thực người dùng, và tương tác với cơ sở dữ liệu.
+
+2. Cơ sở dữ liệu: PostgreSQL 🐘
+PostgreSQL là một hệ quản trị cơ sở dữ liệu quan hệ (RDBMS) mã nguồn mở, nổi tiếng về độ tin cậy, tính toàn vẹn dữ liệu và hiệu suất cao. Nó sẽ được sử dụng để lưu trữ thông tin người dùng, bao gồm tên đăng nhập và mật khẩu (thường được lưu dưới dạng băm).
+
+3. Công nghệ kết nối cơ sở dữ liệu: JDBC 🔗
+Để ứng dụng Java giao tiếp với cơ sở dữ liệu PostgreSQL, bạn cần sử dụng JDBC (Java Database Connectivity). Đây là một API tiêu chuẩn của Java, cung cấp các lớp và giao diện để kết nối đến cơ sở dữ liệu, gửi các câu lệnh SQL và xử lý kết quả trả về.
+
+Các thành phần chính của JDBC cần sử dụng:
+
+JDBC Driver (Trình điều khiển): Một thư viện (file .jar) cụ thể cho PostgreSQL, cho phép ứng dụng Java hiểu và giao tiếp được với cơ sở dữ liệu này. Ví dụ: postgresql-42.2.x.jar.
+
+Connection: Một đối tượng để thiết lập và duy trì kết nối vật lý đến cơ sở dữ liệu.
+
+Statement / PreparedStatement: Các đối tượng dùng để thực thi các câu lệnh SQL. PreparedStatement được ưu tiên sử dụng để ngăn chặn các cuộc tấn công SQL Injection.
+
+ResultSet: Một đối tượng lưu trữ kết quả trả về từ một câu lệnh truy vấn (SELECT).
 ## 📝 4. Hình ảnh chức năng
 
 ## 5. Các bước cài đặt
