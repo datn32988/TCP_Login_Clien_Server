@@ -20,6 +20,17 @@
 </div>
 
 ## 📖 1. Giới thiệu
+Đề tài "TCP_Login_Client_Server" tập trung vào việc xây dựng một hệ thống đăng nhập cơ bản, sử dụng giao thức TCP (Transmission Control Protocol). Giao thức này được chọn bởi tính chất hướng kết nối và đảm bảo độ tin cậy cao, đảm bảo các gói tin được truyền đến đích một cách tuần tự và đầy đủ, rất phù hợp cho các tác vụ nhạy cảm như truyền thông tin tài khoản và mật khẩu.
+
+Mục tiêu chính của đề tài là:
+
+Phát triển một ứng dụng Client: Cho phép người dùng nhập thông tin đăng nhập (tên người dùng và mật khẩu) và gửi yêu cầu này đến máy chủ.
+
+Xây dựng một Server: Lắng nghe các kết nối từ client, tiếp nhận yêu cầu đăng nhập, xử lý xác thực bằng cách so sánh với dữ liệu đã lưu trữ, và phản hồi kết quả về cho client.
+
+Áp dụng giao thức TCP: Hiểu và sử dụng các cơ chế của TCP để thiết lập, duy trì và đóng kết nối một cách an toàn, đảm bảo dữ liệu không bị thất lạc trong quá trình truyền.
+
+Thông qua việc triển khai đề tài này, người thực hiện sẽ có cái nhìn sâu sắc về cách thức hoạt động của mô hình Client-Server, nắm vững quy trình giao tiếp mạng cơ bản và củng cố kiến thức về giao thức TCP trong việc xây dựng các ứng dụng mạng tin cậy. Đây là nền tảng quan trọng để phát triển các hệ thống phân tán và ứng dụng web phức tạp hơn trong tương lai
 ## 🔧 2. Ngôn ngữ lập trình sử dụng: [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
 
 ## 🚀 3. Công nghệ sử dụng
