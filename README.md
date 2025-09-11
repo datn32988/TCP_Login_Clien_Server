@@ -20,7 +20,7 @@
 </div>
 
 ## 📖 1. Giới thiệu
-Đề tài "TCP_Login_Client_Server" tập trung vào việc xây dựng một hệ thống đăng nhập cơ bản, sử dụng giao thức TCP (Transmission Control Protocol). Giao thức này được chọn bởi tính chất hướng kết nối và đảm bảo độ tin cậy cao, đảm bảo các gói tin được truyền đến đích một cách tuần tự và đầy đủ, rất phù hợp cho các tác vụ nhạy cảm như truyền thông tin tài khoản và mật khẩu.
+Đề tài "ĐĂNG NHẬP CLIENT VÀ SERVER" tập trung vào việc xây dựng một hệ thống đăng nhập cơ bản, sử dụng giao thức TCP (Transmission Control Protocol). Giao thức này được chọn bởi tính chất hướng kết nối và đảm bảo độ tin cậy cao, đảm bảo các gói tin được truyền đến đích một cách tuần tự và đầy đủ, rất phù hợp cho các tác vụ nhạy cảm như truyền thông tin tài khoản và mật khẩu.
 
 Mục tiêu chính của đề tài là:
 
