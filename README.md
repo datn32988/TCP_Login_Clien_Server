@@ -37,47 +37,33 @@
 Cung cấp công cụ quản lý cho administrator
 ## 🔧 2. Ngôn ngữ lập trình sử dụng: [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
 🌐 Ngôn Ngữ Lập Trình
-Java SE 17+: Ngôn ngữ lập trình chính
-
-Tính năng: Hướng đối tượng, đa luồng, networking
-
-Ứng dụng: Viết toàn bộ client, server và business logic
+- Java SE 17+: Ngôn ngữ lập trình chính
+- Tính năng: Hướng đối tượng, đa luồng, networking
+- Ứng dụng: Viết toàn bộ client, server và business logic
 
 🎨 Giao Diện Người Dùng
-Java Swing: Thư viện GUI cho desktop applications
-
-JFrame: Container chính cho các cửa sổ
-
-JPanel: Quản lý layout và components
-
-Swing Components: JButton, JTextField, JPasswordField, JTable
-
-Event Handling: ActionListener, MouseListener
+- Java Swing: Thư viện GUI cho desktop applications
+- JFrame: Container chính cho các cửa sổ
+- JPanel: Quản lý layout và components
+- Swing Components: JButton, JTextField, JPasswordField, JTable
+- Event Handling: ActionListener, MouseListener
 
 🌐 Truyền Thông Mạng
-TCP/IP Protocol: Giao thức truyền thông tin cậy
-
-Socket Programming: Java Socket và ServerSocket
-
-Port: 12345 cho kết nối client-server
-
-Object Streams: ObjectInputStream/ObjectOutputStream cho truyền dữ liệu
+- TCP/IP Protocol: Giao thức truyền thông tin cậy
+- Socket Programming: Java Socket và ServerSocket
+- Port: 12345 cho kết nối client-server
+- Object Streams: ObjectInputStream/ObjectOutputStream cho truyền dữ liệu
 
 🗄️ Cơ Sở Dữ Liệu
-PostgreSQL 14+: Hệ quản trị cơ sở dữ liệu quan hệ
-
-JDBC Driver: postgresql-42.6.0.jar
-
-Database Schema: Quản lý users với các trường cần thiết
-
-SQL Operations: SELECT, INSERT, UPDATE, DELETE
+- PostgreSQL 14+: Hệ quản trị cơ sở dữ liệu quan hệ
+- JDBC Driver: postgresql-42.6.0.jar
+- Database Schema: Quản lý users với các trường cần thiết
+- SQL Operations: SELECT, INSERT, UPDATE, DELETE
 
 🔄 Xử Lý Đa Luồng
-Java Multithreading: Xử lý nhiều client đồng thời
-
-Thread: Mỗi client kết nối được xử lý trong thread riêng
-
-Synchronization: Đảm bảo thread-safe khi truy cập database
+- Java Multithreading: Xử lý nhiều client đồng thời
+- Thread: Mỗi client kết nối được xử lý trong thread riêng
+- Synchronization: Đảm bảo thread-safe khi truy cập database
 ## 🚀 3. Hình ảnh chức năng
 
 <p align="center">
