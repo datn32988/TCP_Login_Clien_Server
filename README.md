@@ -4,7 +4,7 @@
     </a>
 </h2>
 <h2 align="center">
-   TCP_Login_Client_Server
+   Đăng nhập Client và Server
 </h2>
 <div align="center">
     <p align="center">
@@ -24,7 +24,51 @@
 
 ## 🚀 3. Hình ảnh chức năng
 
-## 📝 4. Các bước cài đặt 
+<p align="center">
+  <img src="doc/admin.png" alt="Ảnh 1" width="600"/>
+</p>
+
+<p align="center">
+  <em>Hình 1: Giao diện Admin </em>
+</p>
+
+<p align="center">
+  <img src="doc/dangky.png" alt="Ảnh 2" width="600"/>
+</p>
+<p align="center">
+  <em> Hình 2: Giao diện Đăng ký</em>
+</p>
+
+
+<p align="center">
+  <img src="doc/login.png" alt="Ảnh 3" width="600"/>
+ 
+</p>
+<p align="center">
+  <em> Hình 3: Giao diện đăng nhập </em>
+</p>
+
+<p align="center">
+    <img src="doc/profile.png" alt="Ảnh 4" width="600"/>
+</p>
+<p align="center">
+  <em> Hình 4: Giao diện chính người dùng</em>
+</p>
+
+<p align="center">
+  <img src="doc/password" alt="Ảnh 5" width="600"/>
+</p>
+<p align="center">
+  <em> Hình 5: Giao diện đổi mật khẩu</em>
+</p>
+
+<p align="center">
+  <img src="doc/updateprofile" alt="Ảnh 6" width="600"/>
+</p>
+<p align="center">
+  <em> Hình 6: Giao diện thay đổi thông tin cá nhân</em>
+</p>
+ 
 ## 📝 4. Các bước cài đặt 
 
 ### 🔹 Bước 1: Cài đặt phần mềm cần thiết
