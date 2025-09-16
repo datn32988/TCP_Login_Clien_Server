@@ -20,6 +20,11 @@
 </div>
 
 ## 📖 1. Giới thiệu
+<b>Hệ thống đăng nhập client-server </b>là một giải pháp phần mềm hiện đại được thiết kế để quản lý xác thực người dùng thông qua giao thức mạng TCP. Hệ thống này cung cấp một nền tảng bảo mật và ổn định cho việc đăng ký, đăng nhập và quản lý tài khoản người dùng.
+
+Đề tài tập trung vào việc xây dựng một kiến trúc phân tán theo mô hình client-server, nơi máy chủ đóng vai trò trung tâm trong việc xử lý logic nghiệp vụ, quản lý cơ sở dữ liệu và đảm bảo tính bảo mật, trong khi client cung cấp giao diện người dùng trực quan và thân thiện.
+
+
 ## 🔧 2. Ngôn ngữ lập trình sử dụng: [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
 
 ## 🚀 3. Hình ảnh chức năng
@@ -56,14 +61,14 @@
 </p>
 
 <p align="center">
-  <img src="doc/password" alt="Ảnh 5" width="600"/>
+  <img src="doc/password.png" alt="Ảnh 5" width="600"/>
 </p>
 <p align="center">
   <em> Hình 5: Giao diện đổi mật khẩu</em>
 </p>
 
 <p align="center">
-  <img src="doc/updateprofile" alt="Ảnh 6" width="600"/>
+  <img src="doc/updateprofile.png" alt="Ảnh 6" width="600"/>
 </p>
 <p align="center">
   <em> Hình 6: Giao diện thay đổi thông tin cá nhân</em>
